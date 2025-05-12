@@ -1,9 +1,9 @@
 <h1 align="center">🌌 Sushant Kininge</h1>
 
 <p align="center">
-  <strong>Principal Pre-Sales Architect</strong> | 
-  <strong>GenAI Evangelist</strong> | 
-  <strong>Cloud & Voice Tech Specialist</strong> | 
+  <strong>Principal Pre-Sales Architect</strong> |
+  <strong>GenAI Evangelist</strong> |
+  <strong>Cloud & Voice Tech Specialist</strong> |
   <strong>Astronomy Enthusiast</strong>
 </p>
 
@@ -15,104 +15,52 @@
 
 ---
 
+### 🚀 About Me
+
+With over **11 years of experience** across Vodafone, BT, Ericsson, and Tata Communications, I architect high-impact solutions combining **Generative AI**, **cloud platforms**, and **voice network technologies**.
+
+🔹 At **Vodafone Intelligent Services**, I lead GenAI projects including:
+- A **public IP optimization tool** saving 1.16B+ minutes annually
+- A **Gemini 1.5 Pro knowledge bot** for real-time business insights
+- Custom solutions for **Amazon**, **TELUS**, **Skype** — unlocking €324K+ in deal value
+
+---
+
+### 🧠 Tech Stack & Expertise
+
 <table>
-<tr>
-<td width="55%">
-
-### 👨‍💼 About Me
-
-With over <strong>11+ years</strong> in telecom & tech, I specialize in blending <strong>Generative AI</strong>, <strong>cloud infrastructure</strong>, and <strong>voice technologies</strong> to craft scalable, revenue-impacting solutions.
-
-🔸 <strong>Vodafone Intelligent Services</strong>  
-• Designed a <strong>GenAI Public IP optimizer</strong> saving <em>1.16B+ minutes annually</em>  
-• Created a <strong>Gemini 1.5 Pro-based knowledge bot</strong> for instant business insights  
-• Architected bespoke IPVPN & voice solutions for <strong>Amazon, TELUS, Skype</strong> (valued at €324K+)
-
-🔸 <strong>Past Roles at:</strong>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Vodafone_icon.svg" height="20"/> Vodafone  
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/02/BT_logo_2019.svg" height="20"/> BT Group  
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Ericsson_logo.svg" height="20"/> Ericsson  
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Tata_Communications_logo.svg" height="20"/> Tata Communications
-
----
-
-### 🌌 Stargazer at Heart
-
-When I'm not working on cloud, I'm under it—stargazing, mapping constellations, and exploring the universe that mirrors my passion for curiosity and discovery.
-
-</td>
-
-<td width="45%" valign="top">
-
-### ⚙️ Tech Toolbox
-
-#### 🧬 AI & ML
-- LLMs, LangChain, RAG, Prompt Engineering  
-- HuggingFace, TensorFlow, PyTorch, Scikit-learn  
-- Google Vertex AI, AWS Sagemaker  
-
-#### ☁️ Cloud Platforms
-- AWS, Azure, GCP  
-- Snowflake, Databricks  
-- CI/CD, MLOps pipelines  
-
-#### 📞 Voice & Network
-- SIP, IMS, SBCs, VoIP, IPVPN  
-- NGN Switches, SS7, ISUP  
-- Acme, Huawei, Ericsson AXE  
-
-#### 👨‍💻 Dev & Tools
-- Python, Git, GitHub  
-- REST APIs, SDKs, JSON/XML  
-- Linux, Network Configuration  
-
-</td>
-</tr>
+  <tr>
+    <td><strong>🧬 AI & ML</strong></td>
+    <td>LLMs, LangChain, RAG, HuggingFace, TensorFlow, PyTorch, Scikit-learn</td>
+  </tr>
+  <tr>
+    <td><strong>☁️ Cloud Platforms</strong></td>
+    <td>AWS, Azure, GCP, Snowflake, Databricks, Vertex AI, Sagemaker</td>
+  </tr>
+  <tr>
+    <td><strong>📡 Voice & Telecom</strong></td>
+    <td>SIP, IMS, SBC, VoIP, IPVPN, NGN Switches, SS7, ISUP</td>
+  </tr>
+  <tr>
+    <td><strong>👨‍💻 Dev & MLOps</strong></td>
+    <td>Python, Git, GitHub, CI/CD, Prompt Engineering, API Integrations</td>
+  </tr>
 </table>
 
 ---
 
-### 🤝 Let's Collaborate
+### 🌌 Beyond Tech
 
-<div align="center">
-
-<table style="border:2px solid #ccc; border-radius:10px;" width="70%">
-<tr>
-<td align="center" width="33%">
-  
-🔗  
-<strong>LinkedIn</strong>  
-<br>
-<a href="https://www.linkedin.com/in/sushantkininge/" target="_blank">
-<img src="https://img.shields.io/badge/Profile-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-</a>
-
-</td>
-
-<td align="center" width="33%">
-  
-📬  
-<strong>Email</strong>  
-<br>
-<a href="mailto:sushantkininge009@gmail.com">
-<img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
-</a>
-
-</td>
-
-<td align="center" width="33%">
-  
-🌍  
-<strong>Location</strong>  
-<br>
-<img src="https://img.shields.io/badge/Open%20to%20Work-Germany%20🇩🇪-green?style=for-the-badge" alt="Germany Badge">
-
-</td>
-</tr>
-</table>
-
-</div>
+I’m also a **starwatcher and astronomy evangelist**. The night sky is my favorite canvas — full of curiosity, wonder, and infinite questions. My passion for exploring the cosmos mirrors my approach to technology: expansive, inquisitive, and ever-evolving.
 
 ---
 
-<p align="center"><em>“Scale what matters. Optimize what exists. Stay relentlessly curious.”</em></p>
+### 🤝 Let’s Collaborate
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sushantkininge/)
+- 📧 sushantkininge009@gmail.com
+- 🌍 Open to global opportunities (🇩🇪 German Job Seeker VISA holder - 2024)
+
+> _“Scale what matters. Optimize what exists. Stay relentlessly curious.”_
+
+---
