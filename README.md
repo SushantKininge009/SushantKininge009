@@ -74,11 +74,44 @@ When I'm not working on cloud, I'm under it—stargazing, mapping constellations
 
 ### 🤝 Let's Collaborate
 
-<p align="center">
-  📬 <strong>Email:</strong> <a href="mailto:sushantkininge009@gmail.com">sushantkininge009@gmail.com</a> <br>
-  🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sushantkininge/">linkedin.com/in/sushantkininge</a> <br>
-  🌍 <strong>Open to opportunities globally — especially Germany 🇩🇪</strong> (Job Seeker VISA holder 2024)
-</p>
+<div align="center">
+
+<table style="border:2px solid #ccc; border-radius:10px;" width="70%">
+<tr>
+<td align="center" width="33%">
+  
+🔗  
+<strong>LinkedIn</strong>  
+<br>
+<a href="https://www.linkedin.com/in/sushantkininge/" target="_blank">
+<img src="https://img.shields.io/badge/Profile-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+</a>
+
+</td>
+
+<td align="center" width="33%">
+  
+📬  
+<strong>Email</strong>  
+<br>
+<a href="mailto:sushantkininge009@gmail.com">
+<img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+</a>
+
+</td>
+
+<td align="center" width="33%">
+  
+🌍  
+<strong>Location</strong>  
+<br>
+<img src="https://img.shields.io/badge/Open%20to%20Work-Germany%20🇩🇪-green?style=for-the-badge" alt="Germany Badge">
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
