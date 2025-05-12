@@ -1,44 +1,66 @@
-# 👋 Hi, I'm Sushant Kininge
+<h1 align="center">🌌 Sushant Kininge</h1>
 
-🚀 **Principal Pre-Sales Solutions Architect | GenAI Evangelist | Cloud & Voice Tech Specialist | Stargazer at Heart**
+<p align="center">
+  <strong>Principal Pre-Sales Architect</strong> |
+  <strong>GenAI Evangelist</strong> |
+  <strong>Cloud & Voice Tech Specialist</strong> |
+  <strong>Astronomy Enthusiast</strong>
+</p>
 
----
-
-With over a decade of experience in the telecom and technology space, I specialize in designing and delivering AI-powered, scalable, and secure solutions that bridge cloud, voice, and data platforms.
-
-Currently working as **Senior Manager – Pre-Sales Solution Consultant at Vodafone Intelligent Services**, I architect and deploy GenAI-powered tools that drive transformative business outcomes. My recent projects include:
-
-- 💡 A **GenAI-based public IP product optimizer** saving over **1.16 billion minutes annually**.
-- 🤖 A **knowledge bot** powered by Gemini 1.5 Pro, revolutionizing data insight delivery for business teams.
-- 📈 Enterprise solutions tailored for **Amazon**, **Skype**, and **TELUS**, contributing to deals worth over **€324K**.
-
----
-
-## 💼 Tech Expertise
-
-- **Generative AI / ML**: LLMs, LangChain, RAG, Prompt Engineering, Vertex AI, AWS Sagemaker
-- **Cloud Platforms**: AWS, Azure, GCP, Snowflake, Databricks
-- **Telecom/Voice Tech**: SIP, IMS, SBCs, VoIP, NGN, IPVPN
-- **Programming & MLOps**: Python, HuggingFace, TensorFlow, PyTorch, Scikit-learn, Git, CI/CD
-- **Architectural Design**: HLD/LLD, solution prototyping, API integration, CRM modernization
+<p align="center">
+  <a href="https://www.linkedin.com/in/sushantkininge/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:sushantkininge009@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/SushantKininge009"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 ---
 
-## 🌠 A Bit Beyond the Clouds
+### 🚀 About Me
 
-Outside the tech trenches, I’m an **astronomy enthusiast** and evangelist. When I’m not designing solutions, I’m often under the night sky — stargazing, mapping constellations, and contemplating the mysteries of our universe.
+With over **11 years of experience** across Vodafone, BT, Ericsson, and Tata Communications, I architect high-impact solutions combining **Generative AI**, **cloud platforms**, and **voice network technologies**.
 
-I bring the same curiosity and sense of scale to my work in technology — always exploring, always optimizing, always reaching for what’s next.
+🔹 At **Vodafone Intelligent Services**, I lead GenAI projects including:
+- A **public IP optimization tool** saving 1.16B+ minutes annually
+- A **Gemini 1.5 Pro knowledge bot** for real-time business insights
+- Custom solutions for **Amazon**, **TELUS**, **Skype** — unlocking €324K+ in deal value
 
 ---
 
-## 📫 Let's Connect
+### 🧠 Tech Stack & Expertise
+
+<table>
+  <tr>
+    <td><strong>🧬 AI & ML</strong></td>
+    <td>LLMs, LangChain, RAG, HuggingFace, TensorFlow, PyTorch, Scikit-learn</td>
+  </tr>
+  <tr>
+    <td><strong>☁️ Cloud Platforms</strong></td>
+    <td>AWS, Azure, GCP, Snowflake, Databricks, Vertex AI, Sagemaker</td>
+  </tr>
+  <tr>
+    <td><strong>📡 Voice & Telecom</strong></td>
+    <td>SIP, IMS, SBC, VoIP, IPVPN, NGN Switches, SS7, ISUP</td>
+  </tr>
+  <tr>
+    <td><strong>👨‍💻 Dev & MLOps</strong></td>
+    <td>Python, Git, GitHub, CI/CD, Prompt Engineering, API Integrations</td>
+  </tr>
+</table>
+
+---
+
+### 🌌 Beyond Tech
+
+I’m also a **starwatcher and astronomy evangelist**. The night sky is my favorite canvas — full of curiosity, wonder, and infinite questions. My passion for exploring the cosmos mirrors my approach to technology: expansive, inquisitive, and ever-evolving.
+
+---
+
+### 🤝 Let’s Collaborate
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sushantkininge/)
 - 📧 sushantkininge009@gmail.com
-- 🧠 [GitHub Projects](https://github.com/SushantKininge009)
-- 🌍 Open to global collaboration — especially Germany 🇩🇪 (2024 Job Seeker VISA approved)
+- 🌍 Open to global opportunities (🇩🇪 German Job Seeker VISA holder - 2024)
+
+> _“Scale what matters. Optimize what exists. Stay relentlessly curious.”_
 
 ---
-
-_“Scale what matters. Optimize what exists. Stay relentlessly curious.”_
