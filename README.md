@@ -17,16 +17,27 @@
 
 ### 🚀 About Me
 
-With over **11 years of experience** across Vodafone, BT, Ericsson, and Tata Communications, I architect high-impact solutions combining **Generative AI**, **cloud platforms**, and **voice network technologies**.
+With over **11 years of experience** across global telecom and tech leaders, I specialize in designing solutions that blend **AI, cloud, and voice network architecture** to create real business value.
 
-🔹 At **Vodafone Intelligent Services**, I lead GenAI projects including:
-- A **public IP optimization tool** saving 1.16B+ minutes annually
-- A **Gemini 1.5 Pro knowledge bot** for real-time business insights
-- Custom solutions for **Amazon**, **TELUS**, **Skype** — unlocking €324K+ in deal value
+🔹 At **Vodafone Intelligent Services**, I lead:
+- A **GenAI-based public IP optimizer** saving 1.16B+ minutes annually
+- A **Gemini 1.5 Pro knowledge bot** for real-time insights
+- Custom enterprise-grade voice solutions for **Amazon, TELUS, Skype** (€324K+ value)
 
 ---
 
-### 🧠 Tech Stack & Expertise
+### 🏢 Career Timeline & Companies
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Vodafone_icon.svg" alt="Vodafone" height="40" />&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/BT_logo_2019.svg" alt="BT" height="40" />&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Ericsson_logo.svg" alt="Ericsson" height="40" />&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Tata_Communications_logo.svg" alt="Tata Communications" height="40" />
+</p>
+
+---
+
+### 🧠 Tech Stack & Skills
 
 <table>
   <tr>
@@ -35,15 +46,15 @@ With over **11 years of experience** across Vodafone, BT, Ericsson, and Tata Com
   </tr>
   <tr>
     <td><strong>☁️ Cloud Platforms</strong></td>
-    <td>AWS, Azure, GCP, Snowflake, Databricks, Vertex AI, Sagemaker</td>
+    <td>AWS, Azure, GCP, Vertex AI, Sagemaker, Snowflake, Databricks</td>
   </tr>
   <tr>
     <td><strong>📡 Voice & Telecom</strong></td>
-    <td>SIP, IMS, SBC, VoIP, IPVPN, NGN Switches, SS7, ISUP</td>
+    <td>SIP, IMS, SBCs, VoIP, IPVPN, NGN Switches, SS7, ISUP</td>
   </tr>
   <tr>
     <td><strong>👨‍💻 Dev & MLOps</strong></td>
-    <td>Python, Git, GitHub, CI/CD, Prompt Engineering, API Integrations</td>
+    <td>Python, Git, CI/CD, Prompt Engineering, REST APIs, GitHub</td>
   </tr>
 </table>
 
@@ -51,7 +62,7 @@ With over **11 years of experience** across Vodafone, BT, Ericsson, and Tata Com
 
 ### 🌌 Beyond Tech
 
-I’m also a **starwatcher and astronomy evangelist**. The night sky is my favorite canvas — full of curiosity, wonder, and infinite questions. My passion for exploring the cosmos mirrors my approach to technology: expansive, inquisitive, and ever-evolving.
+When not building tech architectures or AI pipelines, I’m out under the real cloud — a passionate **astronomy evangelist** mapping the stars and chasing constellations. I bring that same **curiosity, wonder, and precision** into everything I build.
 
 ---
 
@@ -59,7 +70,7 @@ I’m also a **starwatcher and astronomy evangelist**. The night sky is my favor
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sushantkininge/)
 - 📧 sushantkininge009@gmail.com
-- 🌍 Open to global opportunities (🇩🇪 German Job Seeker VISA holder - 2024)
+- 🌍 Open to global opportunities (🇩🇪 German Job Seeker VISA holder – 2024)
 
 > _“Scale what matters. Optimize what exists. Stay relentlessly curious.”_
 
